@@ -4,7 +4,8 @@
 
 <img src="image.png"/>
 
-<p>Обратная связь:</p>
+<p>Обратная связь:
 kforu742(AT)gmail.com
+</p>
 
 <a href="https://github.com/ca-most/bc/blob/main/privacy.html">Политика конфиденциальности</a>
