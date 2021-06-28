@@ -5,6 +5,7 @@
 
 <img src="image.png"/>
 
-
 <p>Обратная связь:</p>
 kforu742(AT)gmail.com
+
+<a href="https://github.com/ca-most/bc/blob/main/privacy.html">Политика конфиденциальности</a>
