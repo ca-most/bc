@@ -6,5 +6,5 @@ Header 3 Используя приложение баракат кавказ, в
 
 [Link](url) and ![Image](https://github.com/ca-most/bc/blob/main/image.png)
 ```
-### Обратная связь:
+Обратная связь:
 kforu742(AT)gmail.com
